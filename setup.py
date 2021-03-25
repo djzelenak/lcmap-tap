@@ -25,7 +25,7 @@ setup(
     install_requires=[
         'PyQt5==5.10.1',
         'matplotlib==3.0.2',
-        'PyYaml==5.1',
+        'PyYaml==5.4',
         'requests==2.21.0',
         'lcmap-merlin==2.3.1'
     ],
